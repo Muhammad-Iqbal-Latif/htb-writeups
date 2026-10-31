@@ -2,7 +2,6 @@
 
 A collection of Hack The Box writeups maintained in Markdown.
 
-> **Visibility:** Keep this repository private until you have confirmed that every included writeup is permitted for public distribution under current Hack The Box rules.
 
 ## Writeups (24)
 
