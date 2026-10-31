@@ -1,0 +1,10 @@
+.obsidian/
+.trash/
+.DS_Store
+*.swp
+*.tmp
+.env
+.env.*
+*.pem
+*.key
+*.ovpn
