@@ -32,8 +32,3 @@ A collection of Hack The Box writeups maintained in Markdown.
 | [akerva fortress writeup](writeups/akerva_fortress_writeup.md) | HTB |
 | [connected htb writeup](writeups/connected_htb_writeup.md) | HTB |
 
-## Notes
-
-- Images referenced by the exported notes are stored under `assets/`.
-- Source Obsidian files are not modified.
-- Read `EXPORT_WARNINGS.md` and verify links and screenshots before publishing.
